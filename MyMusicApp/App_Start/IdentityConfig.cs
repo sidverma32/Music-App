@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using shanuMusicPlayerMVC.Models;
+using MyMusicPlayer.Models;
 
-namespace shanuMusicPlayerMVC
+namespace MyMusicPlayerMVC
 {
     public class EmailService : IIdentityMessageService
     {
