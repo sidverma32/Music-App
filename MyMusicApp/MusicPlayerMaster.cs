@@ -1,6 +1,6 @@
 
 
-namespace MyMusicPlayerMVC
+namespace MyMusicPlayer
 {
     using System;
     using System.Collections.Generic;
