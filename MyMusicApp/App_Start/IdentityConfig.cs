@@ -12,7 +12,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MyMusicPlayer.Models;
 
-namespace MyMusicPlayerMVC
+namespace MyMusicPlayer
 {
     public class EmailService : IIdentityMessageService
     {
