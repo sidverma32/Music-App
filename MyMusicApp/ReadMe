@@ -1,1 +1,21 @@
+<h3> Web Based Music Player System </h3>
+
+MyMusic Player is a web-based music player system. User can upload their songs and play the selected albums. MyMusic Player has two modules
+
+1) Play Music
+2) Album or Playlist/Music CRUD (Upload and Manage Songs).
+
+#Features
+- Create a Playlist 
+○ Browse through all playlists created by you 
+○ Be able to edit playlists created by you  
+■ Playlists have a name, and a collection of tags - both are editable 
+■ Add a song to a playlist (validation is mandatory here!).
+○ Remove a song from a playlist 
+○ Play a song/playlist! 
+
+MyMusic Player: This is the main module; users can play their favorite uploaded music from this page.
+First, by default, we will display the albums with album name and image. User can click on any of their
+favorite albums to play the music. When user clicks on the album image, we will play the first song of
+that album, by default. Users can add any number of songs to their albums to play.
 
