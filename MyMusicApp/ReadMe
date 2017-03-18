@@ -38,6 +38,7 @@ In this module, we will manage album and music information.
 User can add albums with images and song details and upload songs in the album
 
 Image:
+![mobile_app_manage](https://cloud.githubusercontent.com/assets/10995431/24070761/85e7a4e2-0be9-11e7-841b-365d1771f145.PNG)
 
 
 Here, user can add album details with image.
@@ -45,6 +46,9 @@ Albums are nothing but it’s a favorite or play list.
 First, user can create albums and add all his/her favorite songs in that album. 
 In the database, we have created two tables. 
 One is Album table (as master) and another is music table (as details).
+
+Image:
+![mobile_app_manage_valid](https://cloud.githubusercontent.com/assets/10995431/24070762/880889bc-0be9-11e7-912f-de29f96b3a4e.PNG)
 
 
 This is our main part as we will be adding all our music files to be played in this detail table.
