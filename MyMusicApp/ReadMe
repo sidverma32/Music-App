@@ -55,3 +55,6 @@ This is our main part as we will be adding all our music files to be played in t
 Here, we select our album from combobox and add music details and upload to our root directory to play our songs.
 Users can add new songs, edit, and delete the songs. 
 
+Image:
+![edit_manage](https://cloud.githubusercontent.com/assets/10995431/24070818/74f747c2-0bea-11e7-9596-c0f58ca78980.PNG)
+
