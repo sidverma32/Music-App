@@ -28,3 +28,26 @@ From this page, the user can change and play any songs from the list as per his/
 In the player, we will display the album image and the title along with the current playing song file name.
 In the list, we will also display singer name, music file name, 
 and description of the file. User can play, pause, and play next and previous songs of the list.
+Images:
+![music_player](https://cloud.githubusercontent.com/assets/10995431/24070725/e76340b0-0be8-11e7-9f69-c686196e7d28.PNG)
+![music_player2](https://cloud.githubusercontent.com/assets/10995431/24070726/e8b98906-0be8-11e7-96aa-78d6543433a8.PNG)
+
+
+
+In this module, we will manage album and music information. 
+User can add albums with images and song details and upload songs in the album
+
+Image:
+
+
+Here, user can add album details with image.
+Albums are nothing but it’s a favorite or play list.
+First, user can create albums and add all his/her favorite songs in that album. 
+In the database, we have created two tables. 
+One is Album table (as master) and another is music table (as details).
+
+
+This is our main part as we will be adding all our music files to be played in this detail table.
+Here, we select our album from combobox and add music details and upload to our root directory to play our songs.
+Users can add new songs, edit, and delete the songs. 
+
