@@ -21,3 +21,10 @@ that album, by default. Users can add any number of songs to their albums to pla
 Image: ![home](https://cloud.githubusercontent.com/assets/10995431/24070672/09f82100-0be8-11e7-9cde-9d5c1009e44c.PNG)
 
 
+After the user selects the album, we will check for the songs to be added in the album. 
+If there are no songs for the selected album, then we display the message as "No Songs has been added in this Album”.
+If album has songs, then we display our MyMusic Player.
+From this page, the user can change and play any songs from the list as per his/her choice.
+In the player, we will display the album image and the title along with the current playing song file name.
+In the list, we will also display singer name, music file name, 
+and description of the file. User can play, pause, and play next and previous songs of the list.
